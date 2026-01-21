@@ -1,1 +1,52 @@
-EXCEL SHOTCUTS!
+EXCEL SHOTCUTS
+
+Action	Windows Shortcut				Mac Shortcut
+Basic Excel Shortcuts					
+New Workbook	Ctrl + N				Command + N
+Open Workbook	Ctrl + O				Command + O
+Save Workbook	Ctrl + S				Command + S
+Print	Ctrl + P				Command + P
+Undo	Ctrl + Z				Command + Z
+Redo	Ctrl + Y				Command + Y
+Copy	Ctrl + C				Command + C
+Cut	Ctrl + X				Command + X
+Paste	Ctrl + V				Command + V
+Find	Ctrl + F				Command + F
+Replace	Ctrl + H				Control + H
+Select All	Ctrl + A				Command + A
+Navigations					
+Move to next cell	Arrow Keys				Arrow Keys
+Go to beginning of row	Home				Fn + ← or Command + ←
+Go to beginning of sheet	Ctrl + Home				Command + Up Arrow
+Go to end of data	Ctrl + End				Command + Down Arrow
+Go to specific cell	Ctrl + G or F5				Control + G
+Cell Formatting					
+Bold	Ctrl + B				Command + B
+Italic	Ctrl + I				Command + I
+Underline	Ctrl + U				Command + U
+Format Cells Dialog	Ctrl + 1				Command + 1
+Add Border	Ctrl + Shift + &				Command + Option + 0
+Center Align	Alt + H + A + C				Control + E
+Data Entry and Editing					
+Edit Active Cell	F2				Control + U
+Enter/Confirm Cell	Enter				Return
+Cancel Entry	Esc				Esc
+Insert Current Date	Ctrl + ;				Control + ;
+Insert Current Time	Ctrl + Shift + ;				Command + ;
+Fill Down	Ctrl + D				Command + D
+Fill Right	Ctrl + R				Command + R
+Formulas and Functions					
+Start Formula	0				0
+AutoSum	Alt + =				Command + Shift + T
+Insert Function	Shift + F3				Shift + F3
+Toggle Absolute Reference	F4				Command + T
+Calculate Workbook	F9				Fn + F9
+Worksheet Management					
+Add New Sheet	Shift + F11				Shift + Fn + F11
+Move to Next Sheet	Ctrl + Page Down				Command + Down Arrow
+Move to Previous Sheet	Ctrl + Page Up				Command + Up Arrow
+Rename Sheet	Alt + H + O + R				Double-click sheet tab
+Insert Table	Ctrl + T				Command + T
+Create Chart	Alt + F1				Fn + Option + F1
+Filter	Ctrl + Shift + L				Command + Shift + F
+
